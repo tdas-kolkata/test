@@ -1,0 +1,730 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inde",
+				"indexOf()\tfunc"
+			],
+			[
+				"equals",
+				"equalsIgnoreCase()\tfunc"
+			],
+			[
+				"nextL",
+				"nextLine()\tfunc"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"slider",
+				"sliderOut"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"max",
+				"max\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"font-kerning\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"ser",
+				"server_list〔variable〕"
+			],
+			[
+				"res",
+				"res_mem"
+			],
+			[
+				"mem",
+				"mem_in_gb〔variable〕"
+			],
+			[
+				"app",
+				"app_list〔variable〕"
+			],
+			[
+				"an",
+				"another_ball〔variable〕"
+			],
+			[
+				"d",
+				"distance"
+			],
+			[
+				"s",
+				"speed_y〔variable〕"
+			],
+			[
+				"sc",
+				"screen2〔variable〕"
+			],
+			[
+				"cl",
+				"clock〔variable〕"
+			],
+			[
+				"sp",
+				"speed_y"
+			],
+			[
+				"action",
+				"action_prob〔variable〕"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"acti",
+				"actions〔variable〕"
+			],
+			[
+				"dis",
+				"discount_factor"
+			],
+			[
+				"rewa",
+				"rewards〔variable〕"
+			],
+			[
+				"sta",
+				"states〔variable〕"
+			],
+			[
+				"le",
+				"learning_rate"
+			],
+			[
+				"iter",
+				"iteration"
+			],
+			[
+				"ac",
+				"action_set〔variable〕"
+			],
+			[
+				"state",
+				"state_set"
+			],
+			[
+				"make",
+				"make_dataset〔function〕"
+			],
+			[
+				"tota",
+				"total_reward"
+			],
+			[
+				"to",
+				"total_reward〔variable〕"
+			],
+			[
+				"ra",
+				"random.choice([0,1"
+			],
+			[
+				"lay",
+				"layer3〔variable〕"
+			],
+			[
+				"la",
+				"layer2〔variable〕"
+			],
+			[
+				"clas",
+				"classmethod"
+			],
+			[
+				"cla",
+				"class〔keyword〕"
+			],
+			[
+				"math",
+				"MATH\tJava Class"
+			],
+			[
+				"pri",
+				"println()\tfunc"
+			],
+			[
+				"co",
+				"customer_id"
+			],
+			[
+				"cus",
+				"customer_id〔argument〕"
+			],
+			[
+				"de",
+				"developper〔class〕"
+			],
+			[
+				"string",
+				"String"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"nextI",
+				"nextInt()\tfunc"
+			],
+			[
+				"Scanner",
+				"SCANNER\tJava* Class"
+			],
+			[
+				"util",
+				"UTIL\tCom Class"
+			],
+			[
+				"Sca",
+				"SCANNER\tCom Class"
+			],
+			[
+				"Scann",
+				"SCANNER\tJava* Class"
+			],
+			[
+				"u",
+				"util"
+			],
+			[
+				"lie",
+				"linearSearch"
+			],
+			[
+				"C",
+				"Class"
+			],
+			[
+				"print",
+				"print_arr"
+			],
+			[
+				"mer",
+				"merge〔function〕"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"fi",
+				"file_name〔variable〕"
+			],
+			[
+				"sys",
+				"system〔function〕"
+			],
+			[
+				"pa",
+				"path〔module〕"
+			],
+			[
+				"c",
+				"clock"
+			],
+			[
+				"toa",
+				"total_speed〔variable〕"
+			],
+			[
+				"min",
+				"min_speed〔variable〕"
+			],
+			[
+				"bi",
+				"bikers"
+			],
+			[
+				"total",
+				"total_speed〔variable〕"
+			],
+			[
+				"mi",
+				"min_speed〔variable〕"
+			],
+			[
+				"ne",
+				"next_num〔function〕"
+			],
+			[
+				"reu",
+				"return〔keyword〕"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"find",
+				"find_forward〔function〕"
+			],
+			[
+				"st",
+				"stdio.h\tstandard header"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"W",
+				"write"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"",
+				":w - Save"
+			],
+			[
+				"Snippet: ",
+				"Snippet: for"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color ",
+				"UI: Select Color Scheme"
+			],
+			[
+				"mon",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"set the",
+				"UI: Select Theme"
+			],
+			[
+				"termi",
+				"Material Theme: Extras"
+			],
+			[
+				"open ",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mate",
+				"Material Theme: Extras"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"the",
+				"UI: Select Color Scheme"
+			],
+			[
+				"confi",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"ma",
+				"Material Theme: Configuration"
+			],
+			[
+				"fi",
+				"Material Theme: Configuration"
+			],
+			[
+				"colo",
+				"Package Control: Install Package"
+			],
+			[
+				"m",
+				"Material Theme: Activate theme"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"a",
+			"cls",
+			"exit()",
+			"tamal",
+			"10",
+			"tamal",
+			"exit",
+			"exit()",
+			"a",
+			"b",
+			"a",
+			"a,b",
+			"b=56",
+			"a",
+			"a=10",
+			"cls",
+			"a",
+			"python"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/My python programs/web_page/p5 tutorial/practice1/sketch.js",
+		"/D/My python programs/web_page/p5 tutorial/p5/empty-example/index.html",
+		"/D/My python programs/web_page/p5 tutorial/p5/empty-example/sketch.js",
+		"/D/My python programs/web_page/script.js",
+		"/D/My python programs/web_page/p51_test.html",
+		"/C/Users/LENOVO/Downloads/p5/p5/empty-example/index.html",
+		"/C/Users/LENOVO/Downloads/p5/p5/empty-example/sketch.js",
+		"/C/Users/LENOVO/Downloads/p5.js",
+		"/D/My python programs/web_page/practice.html",
+		"/D/My python programs/web_page/form2.html",
+		"/D/My python programs/basic java/str3.java",
+		"/D/My python programs/basic java/fibunacii.java",
+		"/D/My python programs/basic java/palindrome.java",
+		"/D/My python programs/basic java/practice1.java",
+		"/D/My python programs/basic java/str2.java",
+		"/D/My python programs/basic java/str2_test.java",
+		"/D/My python programs/basic java/str1.java",
+		"/D/My python programs/web_page/string1.java",
+		"/D/My python programs/web_page/page1.html",
+		"/D/My python programs/basic java/user_input.java",
+		"/D/My python programs/basic java/Test.java",
+		"/D/My python programs/basic java/user_input2.java",
+		"/D/My python programs/basic java/variables.java",
+		"/D/My python programs/web_page/script1.html",
+		"/D/My python programs/web_page/slider.html",
+		"/D/My python programs/web_page/form1.html",
+		"/D/My python programs/web_page/hyperlink.html",
+		"/D/My python programs/web_page/basic_structure.html",
+		"/D/My python programs/web_page/second.html",
+		"/D/My python programs/web_page/first.html",
+		"/D/My python programs/basic java/Employee.java",
+		"/D/My python programs/basic java/Solution.java",
+		"/D/My python programs/basic java/Point.java",
+		"/D/My python programs/basic java/Vector.java",
+		"/D/My python programs/Blockchain/test1.py",
+		"/D/My python programs/Iris/classifier.py",
+		"/D/My python programs/Iris/neural.py",
+		"/D/My python programs/Blockchain/test.1py",
+		"/D/My python programs/Blockchain/blockchain1.py",
+		"/D/My python programs/basic java/java_class.java",
+		"/D/My python programs/practice/file1.py",
+		"/D/My python programs/neural_net1/neural.py",
+		"/D/My python programs/Blitzkrieg/Blitzkrieg (1).py",
+		"/D/My python programs/basic java/array.java",
+		"/D/My python programs/codevita_round2/h.py",
+		"/D/My python programs/codevita_round2/test.py",
+		"/D/My python programs/codevita_round2/p1.py",
+		"/D/My python programs/codevita_round2/qg.py",
+		"/D/My python programs/tutorial/test.py",
+		"/D/My python programs/tutorial/t.py",
+		"/D/My python programs/tutorial/t1.py",
+		"/C/Users/LENOVO/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/D/My python programs/mockvita/Genetic/reinforced.py",
+		"/D/My python programs/basic java/FizzBuzz.java",
+		"/D/My python programs/basic java/inheritance.java",
+		"/D/My python programs/mockvita/Genetic/neural.py",
+		"/D/My python programs/mockvita/Genetic/test.py",
+		"/D/My python programs/mockvita/Genetic/gym_cart1.py",
+		"/D/My python programs/mockvita/Genetic/vector.py",
+		"/D/My python programs/mockvita/Genetic/gene.py",
+		"/D/My python programs/basic java/object.py",
+		"/D/My python programs/basic java/vector_object.java",
+		"/D/My python programs/basic java/bubble_sort.java",
+		"/D/My python programs/basic java/prime.java",
+		"/C/Users/LENOVO/AppData/Roaming/Sublime Text 3/Packages/Javatar/Default (Windows).sublime-keymap",
+		"/D/My python programs/basic java/number_triangle.java",
+		"/D/My python programs/basic java/demo.py",
+		"/D/My python programs/basic java/test.py",
+		"/D/My python programs/basic java/inheritance.py",
+		"/D/My python programs/basic java/sort.java",
+		"/D/My python programs/basic java/selection_sort.java",
+		"/D/My python programs/basic java/search.java",
+		"/C/Users/LENOVO/AppData/Roaming/Sublime Text 3/Packages/User/java.sublime-build",
+		"/C/Users/LENOVO/AppData/Roaming/Sublime Text 3/Packages/User/new_python.sublime-build",
+		"/C/Users/LENOVO/AppData/Roaming/Sublime Text 3/Packages/User/demo.py",
+		"/C/Users/LENOVO/AppData/Roaming/Sublime Text 3/Packages/User/python2.7.sublime-build",
+		"/C/Users/LENOVO/AppData/Roaming/Sublime Text 3/Packages/User/Javatar.sublime-settings",
+		"/C/Program Files/Sublime Text 3/selection_sort.java",
+		"/D/My python programs/basic java/object2.java",
+		"/D/My python programs/basic java/object.java",
+		"/D/My python programs/basic java/web_page.html",
+		"/D/My python programs/basic java/site.php",
+		"/D/My python programs/basic java/if_else.java",
+		"/D/My python programs/basic java/hello.java",
+		"/D/My python programs/c programs/merge_sort.c",
+		"/D/My python programs/c programs/test.c",
+		"/D/My python programs/c programs/test.py",
+		"/D/My python programs/c programs/merge_sort.py",
+		"/D/My python programs/c programs/insertion_sort.py",
+		"/D/My python programs/c programs/sun-earth.py",
+		"/D/My python programs/c programs/binser.py",
+		"/D/My python programs/c programs/tcs_codevita.py",
+		"/D/My python programs/c programs/01-knapsack.py",
+		"/D/My python programs/c programs/max_sq_in_bin_matrix.c",
+		"/D/My python programs/c programs/pangram.c",
+		"/D/My python programs/c programs/pangram.py",
+		"/D/My python programs/c programs/rev_str.c",
+		"/D/My python programs/c programs/test2.c",
+		"/C/Users/LENOVO/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
+		"/D/My python programs/c programs/bubble_sort.c",
+		"/D/My python programs/c programs/pangran.py",
+		"/C/Users/LENOVO/AppData/Roaming/Sublime Text 3/Packages/User/python27.sublime-build",
+		"/D/My python programs/c programs/bin_ser.c",
+		"/D/My python programs/c programs/test8.c",
+		"/D/My python programs/c programs/test7.py",
+		"/D/My python programs/mockvita/Mockvita/test.py",
+		"/D/My python programs/mockvita/Mockvita/read_excel.py",
+		"/C/Program Files/Sublime Text 3/read_excel",
+		"/D/My python programs/mockvita/Mockvita/t.py",
+		"/D/My python programs/tcs_practice/game.py",
+		"/D/My python programs/tcs_practice/test3.py",
+		"/D/My python programs/tcs_practice/test2.py",
+		"/D/My python programs/tcs_practice/test.py",
+		"/D/My python programs/tcs_practice/command_line.py",
+		"/D/My python programs/tcs_practice/test.c",
+		"/D/My python programs/c programs/circle_area.c",
+		"/D/My python programs/c programs/pointer.c",
+		"/D/My python programs/c programs/ascii.c",
+		"/D/My python programs/c programs/test3.c",
+		"/D/My python programs/c programs/tcs_strong_number.c",
+		"/D/My python programs/c programs/tcs2.c",
+		"/D/My python programs/c programs/test5.c",
+		"/D/My python programs/c programs/test6.c",
+		"/D/My python programs/c programs/prime3.c",
+		"/D/My python programs/c programs/prime2.py",
+		"/D/My python programs/c programs/square_root.c",
+		"/D/My python programs/c programs/test4.c",
+		"/D/My python programs/c programs/prime2.c"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "script1.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

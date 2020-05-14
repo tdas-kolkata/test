@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>form2</title>
+	<script type="text/javascript">
+		function evalSlider(){
+			var val = document.getElementById("slider").value;
+			document.getElementById("slideOut").innerHTML = val;
+		}
+	</script>
+</head>
+<body>
+	<form>
+		<table align="center" border="0" frame="border" bgcolor=#FFFF00 >
+			<tr>
+				<td>User name: </td>
+				<td><input type="text" name="userName" placeholder="User name" required="required"></td>
+			</tr>
+			<tr>
+				<td>Email ID: </td>
+				<td><input type="text" name="email" placeholder="Email address"></td>
+			</tr>
+			<tr>
+				<td>Password: </td>
+				<td><input type="password" name="password" maxlength="10" placeholder="Password"></td>
+			</tr>
+			<tr>
+				<td>radio button: </td>
+				<td>
+					<input type="radio" name="radio">yes
+					<input type="radio" name="radio">no
+				</td>
+			</tr>
+			<tr>
+				<td>
+				Favourite show ?
+				</td>
+				<td>
+					<input type="checkbox" name="show" id="TVshow"> TVshow
+					<input type="checkbox" name="sport" id="Sports"> Sports
+					<input type="checkbox" name="news" id="news"> News
+				</td>
+				<tr>
+					<td>How good are you in programming?</td>
+					<td>
+						<input type="range" name="slider" id="slider" min="0" max="100" onchange="evalSlider()">
+						<output id="slideOut"></output>
+					</td>
+				</tr>
+				<tr>
+					<td>select your option</td>
+					<td>
+						<select name="option" id="option">
+							<option name="morning" id="morning">Morning</option>
+							<option name="evening" id="evening">Evening</option>
+							<option name="night" id="night">Night</option>
+						</select>
+					</td>
+				</tr>
+
+				<tr>
+					<td>Comments : </td>
+					<td>
+						<textarea type="text" name="comment" id="comment" cols="50" rows="10" value="Enter your comment"></textarea>
+					</td>
+				</tr>
+				<tr>
+					<td>Age :</td>
+					<td><input type="number" name="age" id="age" min="0" max="100" value="25"></td>
+				</tr>
+			</tr>
+		</table>
+		<br><center><input type="button" name="submit" value="Submit"></center>
+	</form>
+</body>
+</html>
